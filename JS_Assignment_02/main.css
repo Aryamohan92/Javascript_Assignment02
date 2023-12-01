@@ -2,5 +2,6 @@ h1{
     color: red;
 }
 .cricket-india{
-  display: flex;  
+  display: flex; 
+  border: 1px solid red; 
 }
